@@ -1,199 +1,131 @@
 {
-  "updated" : "20220727",
-  "dailies" : [
+  "updated": "20220727",
+  "dailiesC": [
+    "Unas",
+    "Chaos Dungeon",
+    "Guardian Raid",
+    "guild donation/research"
+  ],
+  "dailiesR": [
+    "Rapport",
+    "Anguish Island"
+  ],
+  "weekliesC": [
+    "Unas",
+    "Guild Requests",
+    "Abyss Dungeon",
+    "Abyss Raid",
+    "Legion Raid",
+    "Guild Exchange",
+    "Pirate Exchange"
+  ],
+  "weekliesR": [
+    "Ghost Ship",
+    "Challenge Guardian",
+    "Challenge Abyss",
+    "Chaos Line",
+    "Chaos Exchange"
+  ],
+  "guardians": [
     {
-      "name" : "Unas",
-      "type" : "c",
-      "index" : 0
+      "name": "Ur'nil",
+      "ilvl": 302
     },
     {
-      "name" : "Chaos Dungeon",
-      "type" : "c",
-      "index" : 1
+      "name": "Lumerus",
+      "ilvl": 340
     },
     {
-      "name" : "Guardian Raid",
-      "type" : "c",
-      "index" : 2
+      "name": "Icy Legoros",
+      "ilvl": 380
     },
     {
-      "name" : "guild donation/research",
-      "type" : "c",
-      "index" : 3
+      "name": "Vertus",
+      "ilvl": 420
     },
     {
-      "name" : "Rapport",
-      "type" : "r",
-      "index" : 0
+      "name": "Chromanium",
+      "ilvl": 460
     },
     {
-      "name" : "Anguish Island",
-      "type" : "r",
-      "index" : 1
+      "name": "Nacrasena",
+      "ilvl": 500
+    },
+    {
+      "name": "Flame Fox Yoho",
+      "ilvl": 540
+    },
+    {
+      "name": "Tytalos",
+      "ilvl": 580
+    },
+    {
+      "name": "Dark Legoros",
+      "ilvl": 802
+    },
+    {
+      "name": "Helgaia",
+      "ilvl": 840
+    },
+    {
+      "name": "Calventus",
+      "ilvl": 880
+    },
+    {
+      "name": "Achates",
+      "ilvl": 920
+    },
+    {
+      "name": "Frost Helgaia",
+      "ilvl": 960
+    },
+    {
+      "name": "Lava Chromanium",
+      "ilvl": 1000
+    },
+    {
+      "name": "Levanos",
+      "ilvl": 1040
+    },
+    {
+      "name": "Alberhastic",
+      "ilvl": 1080
+    },
+    {
+      "name": "Heavy Armor Nacrasena",
+      "ilvl": 1302
+    },
+    {
+      "name": "Igrexion",
+      "ilvl": 1325
+    },
+    {
+      "name": "Night Fox Yoho",
+      "ilvl": 1370
+    },
+    {
+      "name": "Velganos",
+      "ilvl": 1385
+    },
+    {
+      "name": "Deskaluda",
+      "ilvl": 1415
+    },
+    {
+      "name": "Kungelanium",
+      "ilvl": 1460
     }
   ],
-  "weeklies" : [
+  "legionRaids": [
     {
-      "name" : "Unas",
-      "type" : "c",
-      "index" : 0
+      "name": "Valtan",
+      "nm": 1415,
+      "hm": 1445
     },
     {
-      "name" : "Guild Requests",
-      "type" : "c",
-      "index" : 1
-    },
-    {
-      "name" : "Abyss Dungeon",
-      "type" : "c",
-      "index" : 2
-    },
-    {
-      "name" : "Abyss Raid",
-      "type" : "c",
-      "index" : 3
-    },
-    {
-      "name" : "Legion Raid",
-      "type" : "c",
-      "index" : 4
-    },
-    {
-      "name" : "Guild Exchange",
-      "type" : "c",
-      "index" : 5
-    },
-    {
-      "name" : "Pirate Exchange",
-      "type" : "c",
-      "index" : 6
-    },
-    {
-      "name" : "Ghost Ship",
-      "type" : "r",
-      "index" : 0
-    },
-    {
-      "name" : "Challenge Guardian",
-      "type" : "r",
-      "index" : 1
-    },
-    {
-      "name" : "Challenge Abyss",
-      "type" : "r",
-      "index" : 2
-    },
-    {
-      "name" : "Chaos Line",
-      "type" : "r",
-      "index" : 3
-    },
-    {
-      "name" : "Chaos Exchange",
-      "type" : "r",
-      "index" : 4
+      "name": "Vykas",
+      "nm": 1430,
+      "hm": 1460
     }
-  ],
-  "guardians" : [
-    {
-      "name" : "Ur'nil",
-      "ilvl" : 302
-    },
-    {
-      "name" : "Lumerus",
-      "ilvl" : 340
-    },
-    {
-      "name" : "Icy Legoros",
-      "ilvl" : 380
-    },
-    {
-      "name" : "Vertus",
-      "ilvl" : 420
-    },
-    {
-      "name" : "Chromanium",
-      "ilvl" : 460
-    },
-    {
-      "name" : "Nacrasena",
-      "ilvl" : 500
-    },
-    {
-      "name" : "Flame Fox Yoho",
-      "ilvl" : 540
-    },
-    {
-      "name" : "Tytalos",
-      "ilvl" : 580
-    },
-    {
-      "name" : "Dark Legoros",
-      "ilvl" : 802
-    },
-    {
-      "name" : "Helgaia",
-      "ilvl" : 840
-    },
-    {
-      "name" : "Calventus",
-      "ilvl" : 880
-    },
-    {
-      "name" : "Achates",
-      "ilvl" : 920
-    },
-    {
-      "name" : "Frost Helgaia",
-      "ilvl" : 960
-    },
-    {
-      "name" : "Lava Chromanium",
-      "ilvl" : 1000
-    },
-    {
-      "name" : "Levanos",
-      "ilvl" : 1040
-    },
-    {
-      "name" : "Alberhastic",
-      "ilvl" : 1080
-    },
-    {
-      "name" : "Heavy Armor Nacrasena",
-      "ilvl" : 1302
-    },
-    {
-      "name" : "Igrexion",
-      "ilvl" : 1325
-    },
-    {
-      "name" : "Night Fox Yoho",
-      "ilvl" : 1370
-    },
-    {
-      "name" : "Velganos",
-      "ilvl" : 1385
-    },
-    {
-      "name" : "Deskaluda",
-      "ilvl" : 1415
-    },
-    {
-      "name" : "Kungelanium",
-      "ilvl" : 1460
-    }
-   ],
-  "legionRaids" : [
-    {
-      "name" : "Valtan",
-      "nm" : 1415,
-      "hm" : 1445
-    },
-    {
-      "name" : "Vykas",
-      "nm" : 1430,
-      "hm" : 1460
-    }
-   ]
+  ]
 }
