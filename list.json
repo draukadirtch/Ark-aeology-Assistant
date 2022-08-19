@@ -27,115 +27,31 @@
       "Chaos Exchange"
    ],
    "guardians":[
-      {
-         "name":"Ur'nil",
-         "ilvl":302
-      },
-      {
-         "name":"Lumerus",
-         "ilvl":340
-      },
-      {
-         "name":"Icy Legoros",
-         "ilvl":380
-      },
-      {
-         "name":"Vertus",
-         "ilvl":420
-      },
-      {
-         "name":"Chromanium",
-         "ilvl":460
-      },
-      {
-         "name":"Nacrasena",
-         "ilvl":500
-      },
-      {
-         "name":"Flame Fox Yoho",
-         "ilvl":540
-      },
-      {
-         "name":"Tytalos",
-         "ilvl":580
-      },
-      {
-         "name":"Dark Legoros",
-         "ilvl":802
-      },
-      {
-         "name":"Helgaia",
-         "ilvl":840
-      },
-      {
-         "name":"Calventus",
-         "ilvl":880
-      },
-      {
-         "name":"Achates",
-         "ilvl":920
-      },
-      {
-         "name":"Frost Helgaia",
-         "ilvl":960
-      },
-      {
-         "name":"Lava Chromanium",
-         "ilvl":1000
-      },
-      {
-         "name":"Levanos",
-         "ilvl":1040
-      },
-      {
-         "name":"Alberhastic",
-         "ilvl":1080
-      },
-      {
-         "name":"Heavy Armor Nacrasena",
-         "ilvl":1302
-      },
-      {
-         "name":"Igrexion",
-         "ilvl":1325
-      },
-      {
-         "name":"Night Fox Yoho",
-         "ilvl":1370
-      },
-      {
-         "name":"Velganos",
-         "ilvl":1385
-      },
-      {
-         "name":"Deskaluda",
-         "ilvl":1415
-      },
-      {
-         "name":"Kungelanium",
-         "ilvl":1460
-      }
+         "Ur'nil0302",
+         "Lumerus0340",
+         "Icy Legoros0380",
+         "Vertus0420",
+         "Chromanium0460",
+         "Nacrasena0500",
+         "Flame Fox Yoho0540"
+         "Tytalos0580",
+         "Dark Legoros0802",
+         "Helgaia0840",
+         "Calventus0880",
+         "Achates0920",
+         "Frost Helgaia0960",
+         "Lava Chromanium1000",
+         "Levanos1040",
+         "Alberhastic1080",
+         "Heavy Armor Nacrasena1302",
+         "Igrexion1325",
+         "Night Fox Yoho1370",
+         "Velganos1385",
+         "Deskaluda1415",
+         "Kungelanium1460"
    ],
    "legionRaids":[
-      {
-         "Valtan":[
-            {
-               "nm":1415
-            },
-            {
-               "hm":1445
-            }
-         ]
-      },
-      {
-         "Vykas":[
-            {
-               "nm":1430
-            },
-            {
-               "hm":1460
-            }
-         ]
-      }
+         "Valtan1415",
+         "Vykas1430"
    ]
 }
