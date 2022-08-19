@@ -118,14 +118,14 @@
   ],
   "legionRaids": [
     {
-      "name": "Valtan",
+      "Valtan":[
       "nm": 1415,
-      "hm": 1445
+      "hm": 1445]
     },
     {
-      "name": "Vykas",
+      "Vykas":[
       "nm": 1430,
-      "hm": 1460
+      "hm": 1460]
     }
   ]
 }
